@@ -34,7 +34,7 @@ body{
 }
 
 .h {
-    height: git100%!important;
+    height: 100%!important;
 }
 
 @media (max-width: 1037px) {
