@@ -1,15 +1,15 @@
 const rpsPic = [
     {
         id: "rock",
-        img: "Pics/Rock.svg",
+        img: "pics/rock.svg",
     },
     {
         id: "paper",
-        img: "Pics/Paper.svg",
+        img: "pics/paper.svg",
     },
     {
         id: "scissor",
-        img: "Pics/Scissors.svg",
+        img: "pics/scissors.svg",
     },
 ];
 
