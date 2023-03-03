@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.rps{
+    height: 400px;
+    width: 500px;
+}
+
+.player{
+    transform: rotate(100deg);
+}
+
+.opp{
+    transform: rotate(80deg) scaleY(-1);
+}
+
+.mainScore{
+    overflow: hidden;
+}
+
+.btn{
+    height: 50px;
+    width: 100px;
+    margin: 30px;
+}
+
+.h {
+    height: git100%!important;
+}
+
+@media (max-width: 1037px) {
+    .rps{
+    height: 200px;
+    width: 250px;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+}
+
+.d-grid{
+        justify-content: center;
+
+}
+}
